@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.exe.config
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.exe
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.pdb
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin_Dili.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin_Dili.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.exe
+c:\users\v\documents\visual studio 2015\Projects\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.pdb
